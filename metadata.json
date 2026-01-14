@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sahha - Smart Health & Nutrition Platform",
+  "description": "A comprehensive health SaaS platform featuring AI food recognition, calorie tracking, and personalized nutrition management with full Arabic support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
